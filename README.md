@@ -1,23 +1,63 @@
+<h1 align="center">Hi 👋, I'm Prince Ray!</h1>
 
+<h3 align="center">🚀 MCA Student | 💻 Aspiring Software Developer | MERN Stack Enthusiast  .........
+✨ Always exploring, learning, and creating meaningful software solutions.</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Building a personal portfolio website and a data analysis platform with interactive charts.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, full-stack web development, and cloud-based applications.<br><br>🧠 I’m looking for help with<br> Python Automation Testing, and AI integrations.<br><br>🌱 I’m currently learning<br>React.js, Node.js, and deploying applications on AWS/GCP.<br><br>💬 Ask me about<br>MERN Stack, Web Development, Git/GitHub, and project building tips.<br><br>⚡ Fun fact<br>I enjoy automating repetitive tasks and turning ideas into working apps.
+<h3 align="left">More About Me:</h3>
 
+- 🌱 I’m currently learning: **React.js, Node.js, and deploying applications on AWS/GCP.**
+- 🔭 I’m currently working on: **Building a personal portfolio website and a data analysis platform with interactive charts.**
+- 💬 Ask me about: **MERN Stack, Web Development, Git/GitHub, and project building tips.**
+- 📫 How to reach me: [rayp11348@gmail.com](mailto:rayp11348@gmail.com)
+- 👨‍💻 **[My Portfolio](https://princeray-18.github.io/My-portfolio/)**
+- ⚡ Fun fact: **I enjoy automating repetitive tasks and turning ideas into working apps.**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prince Ray) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Prince-ray-18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prince Ray) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Prince Ray) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prince_ray_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayp11348@gmail.com) 
+<div class="skills-section">
+<h3 align="left">Languages and Tools:</h3>
+<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
+</p>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Princeray-18&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Princeray-18&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Princeray-18&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<div class="social-icons-wrapper">
+<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+<a href="https://github.com/Princeray-18" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://twitter.com/Prince_ray_18" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://linkedin.com/in/princeray18" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://instagram.com/Prince-ray-18" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://facebook.com/https://www.facebook.com/share/16Cbgf7zdE/" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+</p>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Princeray-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Princeray-18&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true" alt="Princeray-18's GitHub Stats" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Princeray-18&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Princeray-18&locale=en&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Princeray-18&theme=github_dark&hide_border=true" alt="GitHub Streak Stats" /></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Princeray-18&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/Prince_ray_18" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/Prince_ray_18?logo=x&style=social" alt="Follow @Prince_ray_18 on Twitter" /></a>   <a href="https://github.com/sponsors/Princeray-18" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @Princeray-18" /></a>
+</p>
