@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://github.com/Princeray-18/Princeray-18/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner_20250820_000101_0000.png" alt="Profile Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Prince Ray!</h1>
 
-<h3 align="center">🚀 MCA Student | 💻 Aspiring Software Developer | MERN Stack Enthusiast  .........
-✨ Always exploring, learning, and creating meaningful software solutions.</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack Enthusiast
+🔧 Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git & GitHub
+📈 Always learning...</h3>
 
 <h3 align="left">More About Me:</h3>
 
@@ -26,8 +31,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
 
@@ -52,11 +57,11 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Princeray-18&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true" alt="Princeray-18's GitHub Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Princeray-18&show_icons=true&locale=en&theme=dracula&count_private=true&hide_border=true" alt="Princeray-18's GitHub Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Princeray-18&locale=en&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Princeray-18&locale=en&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Princeray-18&theme=github_dark&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Princeray-18&theme=dracula&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Princeray-18&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/Prince_ray_18" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/Prince_ray_18?logo=x&style=social" alt="Follow @Prince_ray_18 on Twitter" /></a>   <a href="https://github.com/sponsors/Princeray-18" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @Princeray-18" /></a>
